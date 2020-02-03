@@ -1,0 +1,25 @@
+{
+  "name": "lotterycontract",
+  "version": "1.0.0",
+  "description": "an smart contract to choose who win in a lottery game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damivazbien/lotterycontract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damivazbien/lotterycontract/issues"
+  },
+  "homepage": "https://github.com/damivazbien/lotterycontract#readme",
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "mocha": "^4.0.1",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
